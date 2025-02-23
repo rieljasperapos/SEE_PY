@@ -1,11 +1,11 @@
 # 📌 Assignment 2: Clustering with Sessa Empirical Estimator  
 
-## 👨‍💻 Contributors  
+### 👨‍💻 Contributors  
 
 - **Jasper Apos**  
 - **James Clarit**  
 
-## 📂 Deliverables  
+### 📂 Deliverables  
 
 | Task                     | Description  |  
 |--------------------------|-------------|  
